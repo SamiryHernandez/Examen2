@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="iniciar_grabaci_n">Iniciar grabación</string>
+    <string name="todo">TODO</string>
+    <string name="periodista">Periodista</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="fecha">Fecha</string>
+    <string name="guardar_datos">Guardar datos</string>
+    <string name="ver_lista_de_datos">Ver lista</string>
+    <string name="obligatorio">El campo es obligatorio</string>
+    <string name="imagen">Imagen</string>
+    <string name="descripci_n_del_art_culo_period_stico">Descripción del artículo periodístico</string>
+    <string name="nombre_del_periodista">Nombre del periodista</string>
+    <string name="men">Menú</string>
+    <string name="opciones">Opciones</string>
+    <string name="reproducir_audio">Reproducir audio</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
